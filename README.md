@@ -1,4 +1,4 @@
-# MultiObjective Optimisation
+# Multi Objective Optimisation
 
 # Here are the steps for constructing the proposed optimisation model for electric vehicle charging infrastructure:
 1. Analysis and processing of data to determine the subject and environment of optimisation.
