@@ -4,7 +4,7 @@
 
 ### Farzaneh Farhadi (F.Farhadi2@newcastle.ac.uk): Farzaneh holds an MSc in Computer Science and is currently a PhD student at Newcastle University, UK.
 
-### Shixiao Wang (forainest789@gmail.com): Shixiao has an MSc in Computer Science from Newcastle University, UK.
+### Shixiao Wang (Forainest789@gmail.com): Shixiao has an MSc in Computer Science from Newcastle University, UK.
 
 
 
