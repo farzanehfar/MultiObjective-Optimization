@@ -365,8 +365,7 @@ class LSTM_GA():
         '''
         self.work_hour_rank = [self.satisfy_demand[-1] * item for item in [work_hour_score_limit_1, work_hour_score_limit_2, work_hour_score_limit_3]]
         self.hunt_food_score = [self.satisfy_demand[-1] * item for item in[hunt_food_score_limit_1, hunt_food_score_limit_2, hunt_food_score_limit_3]]
-        print(self.work_hour_rank)
-        print(self.hunt_food_score)
+        
                     
     def write_data(self):
         try:
@@ -447,22 +446,32 @@ class LSTM_GA():
 
 input_dir = r"F:\LSTM-GA\LSTM-GA\Train_dataset"
 
+year_num = {
+    '2042': 134606,
+    '2046': 145345,
+    '2048': 146617,
+    '2050': 160403,
+
+}
+
 if os.path.isdir(input_dir):
     files = os.listdir(input_dir)
+
     for file in files:
         url = os.path.join(input_dir, file)
-        output_dir = f'./result_{file.split(".xlsx")[0]}.xlsx'
-        6/
-
-
+        file_name = file.split(".xlsx")[0]
+        output_dir = f'./result_{file_name}.xlsx'
+        year = file_name.split("_")[0]
+        ev_quantity = year_num[file_name.split("_")[1]]
+        print(f'start training {year}, total EV quantity is {ev_quantity}')
         lstm_ga = LSTM_GA(
             url=url,
-            ev_quantity=134606,
-            generation_num=10,
+            ev_quantity=ev_quantity,
+            generation_num=100,
             output_dir = output_dir,
         )
         lstm_ga.train()
-        print(output_dir," finished train")
+    print(output_dir," finished train")
 else:
     print("Please check input dir")
 
