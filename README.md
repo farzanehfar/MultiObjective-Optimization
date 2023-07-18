@@ -1,5 +1,11 @@
 # Multi Objective Optimisation
 
+## This code has been written by the following contacts:
+## Farzaneh Farhadi (F.Farhadi2@newcastle.ac.uk)
+## Shixiao Wang (forainest789@gmail.com)
+
+
+
 # Here are the steps for constructing the proposed optimisation model for electric vehicle charging infrastructure:
 1. Analysis and processing of data to determine the subject and environment of optimisation.
 2. Construct gene vectors, determine genotypes and score types, and construct the initial solution vector space,
