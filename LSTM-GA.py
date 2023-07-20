@@ -450,7 +450,7 @@ class LSTM_GA():
                     self.generate_food(self.train_total_evfood[-1])
 
 
-input_dir = r"F:\LSTM-GA\LSTM-GA\Train_dataset"
+input_dir = r"./Train_dataset"
 
 year_num = {
     '2042': 134606,
