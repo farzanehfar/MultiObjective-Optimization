@@ -28,7 +28,7 @@ optimisation and search.
 10. Repeat steps 5 to 9 until the generational requirements are satisfied
 
 
-# Other Publications by corresponding author Farzaneh Farhadi: 
+# Other Publications by corresponding author "Farzaneh Farhadi": 
 ## Publication 1 in "Machine Learning for Transport Policy Interventions on Air Quality": https://ieeexplore.ieee.org/document/10114913
 
 ```bibtex
