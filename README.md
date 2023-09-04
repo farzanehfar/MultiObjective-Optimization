@@ -6,7 +6,16 @@
 
 ### Shixiao Wang (Forainest789@gmail.com): Shixiao has an MSc in Computer Science from Newcastle University, UK.
 
-
+```bibtex
+@article{farhadi2023data,
+  title={Data-Driven Multi-Objective Optimisation for Electric Vehicle Charging Infrastructure},
+  author={Farhadi, Farzaneh and Wang, Shixiao and Palacin, Roberto and Blythe, Phil},
+  journal={iScience},
+  pages={107737},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 
 ## Here are the steps for constructing the proposed optimisation model for electric vehicle charging infrastructure:
 1. Analysis and processing of data to determine the subject and environment of optimisation.
