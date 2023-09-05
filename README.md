@@ -1,6 +1,6 @@
-# Multi Objective Optimisation
+# Multi Objective Optimization
 
-## This code was written by the following contributors for the publication, "Data-Driven Multi-Objective Optimisation for Electric Vehicle Charging Infrastructure":
+## This code was written by the following contributors for the publication, "Data-Driven Multi-Objective optimization for Electric Vehicle Charging Infrastructure":
 
 ### Farzaneh Farhadi (F.Farhadi2@newcastle.ac.uk): Farzaneh holds an MSc in Computer Science and is currently a PhD student at Newcastle University, UK.
 
@@ -17,8 +17,8 @@
 }
 ```
 
-## Here are the steps for constructing the proposed optimisation model for electric vehicle charging infrastructure:
-1. Analysis and processing of data to determine the subject and environment of optimisation.
+## Here are the steps for constructing the proposed optimization model for electric vehicle charging infrastructure:
+1. Analysis and processing of data to determine the subject and environment of optimization.
 2. Construct gene vectors, determine genotypes and score types, and construct the initial solution vector space,
 i.e. construct the initial population.
 3. Through the processing of real data, a resource vector is designed through mapping and an environment
@@ -33,7 +33,7 @@ them to the solution vector matrix space.
 8. The environment matrix is regenerated according to the mapping rules.
 9. Rating by calculating the score type and then calculating the crowding by the inner product for the exemplar
 elite, so that the crowding is in the right zone to ensure species diversity and also the right direction for
-optimisation and search.
+optimization and search.
 10. Repeat steps 5 to 9 until the generational requirements are satisfied
 
 
