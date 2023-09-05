@@ -8,7 +8,7 @@
 
 ```bibtex
 @article{farhadi2023data,
-  title={Data-Driven Multi-Objective Optimisation for Electric Vehicle Charging Infrastructure},
+  title={Data-Driven Multi-Objective Optimization for Electric Vehicle Charging Infrastructure},
   author={Farhadi, Farzaneh and Wang, Shixiao and Palacin, Roberto and Blythe, Phil},
   journal={iScience},
   pages={107737},
