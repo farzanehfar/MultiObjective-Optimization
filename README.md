@@ -1,6 +1,8 @@
 # Data Driven Multi Objective Optimization
 
-## This code was written by the following contributors for the publication, ["Data-Driven Multi-Objective optimization for Electric Vehicle Charging Infrastructure"] (https://www.cell.com/iscience/pdf/S2589-0042(23)01814-X.pdf): 
+# Journal link: https://www.cell.com/iscience/pdf/S2589-0042(23)01814-X.pdf
+
+## This code was written by the following contributors for the publication, "Data-Driven Multi-Objective optimization for Electric Vehicle Charging Infrastructure" 
 
 ### Farzaneh Farhadi (F.Farhadi2@newcastle.ac.uk): Farzaneh holds an MSc in Computer Science and is currently a PhD student at Newcastle University, UK.
 
