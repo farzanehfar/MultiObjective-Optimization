@@ -4,7 +4,7 @@
 
 ## This code was written by the following contributors for the publication, "Data-Driven Multi-Objective optimization for Electric Vehicle Charging Infrastructure" 
 
-### Farzaneh Farhadi (F.Farhadi2@newcastle.ac.uk): Farzaneh holds an MSc in Computer Science and is currently a PhD student at Newcastle University, UK.
+### Farzaneh Farhadi (Farhadi.Farzane@gmail.com): Farzaneh holds a PhD in Artificial Intelligence. 
 
 ### Shixiao Wang (Forainest789@gmail.com): Shixiao has an MSc in Computer Science from Newcastle University, UK.
 
